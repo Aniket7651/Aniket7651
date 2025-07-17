@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58E7F4&center=true&vCenter=true&width=800&lines=Hi,+I'm+Aniket+Yadav.;Full-stack+Dev+%7C+Bioinfo+Engineer+%7C+Deep+Learning;PostgreSQL+%7C+Django+%7C+JS+%7C+TensorFlow+%7C+Docker+%7C+C#" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58E7F4&center=true&vCenter=true&width=800&lines=Hi,+I'm+Aniket+Yadav.;Full-stack+Dev+%7C+Bioinfo+Engineer+%7C+Deep+Learning;PostgreSQL+%7C+Django+%7C+JS+%7C+TensorFlow+%7C+Docker+%7C+.NET" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,postgres,django,docker,tensorflow,linux,git,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,postgres,django,docker,tensorflow,linux,git,nodejs,C#.NET" />
 </p>
 
 ---
