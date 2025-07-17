@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,postgres,django,docker,tensorflow,linux,git,nodejs,C#.NET" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,postgres,django,docker,tensorflow,linux,git,nodejs,.NET" />
 </p>
 
 ---
