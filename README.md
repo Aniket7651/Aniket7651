@@ -21,7 +21,7 @@
 
 - **Languages:** Python, JavaScript, SQL, C#  
 - **Backend:** Django, REST APIs, ASP.NET Core  
-- **Frontend:** HTML, CSS, JS, AJAX  
+- **Frontend:** HTML, CSS, JS, Jquery 
 - **Data:** PostgreSQL, SQLite, Pandas, NumPy  
 - **DevOps:** Docker, GitHub Actions, CI/CD  
 - **ML/DL:** TensorFlow, scikit-learn, Matplotlib, Seaborn
