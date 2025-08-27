@@ -22,9 +22,10 @@
 - **Languages:** Python, JavaScript, SQL, JSON, C#
 - **Backend:** Django, Node.Js, ASP.NET Core  
 - **Frontend:** HTML, CSS, JS, Jquery 
-- **Data:** PostgreSQL, SQLite, Pandas, NumPy  
+- **Data:** PostgreSQL, SQLite, Pandas, NumPy
 - **DevOps:** Docker, GitHub Actions, CI/CD  
 - **ML/DL:** TensorFlow, scikit-learn, Matplotlib, Seaborn
+- **Biological Data Analysis:** GEOparse, BioPython, pyDseq2
 
 ---
 
