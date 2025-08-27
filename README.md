@@ -19,8 +19,8 @@
 
 ## 🛠️ Tech Toolbox
 
-- **Languages:** Python, JavaScript, SQL, C#  
-- **Backend:** Django, REST APIs, ASP.NET Core  
+- **Languages:** Python, JavaScript, SQL, JSON, C#
+- **Backend:** Django, Node.Js, ASP.NET Core  
 - **Frontend:** HTML, CSS, JS, Jquery 
 - **Data:** PostgreSQL, SQLite, Pandas, NumPy  
 - **DevOps:** Docker, GitHub Actions, CI/CD  
